@@ -1,0 +1,23 @@
+Name:
+Student ID: 3037608459
+
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+
+- There is cd, ls, open, cp, mv. These are the commands we had to use for this homework. The cd is to change the directory, ls is to list all the directories or files, open is to simply open a file, cp is to copy a file from a directory to another, and move is to move the file to a different directory.
+- The language my computer is in is GitBash
+
+2. Do you have pets? What kind?
+
+- No but I want a dog :(
+
+3. If you run across an error, what would your first course of action be?
+
+- My first course of action would be to traceback my steps and make sure everything is good before the error. I usually read the error prompt first though as that is usually the fastest way to identify the error in the code. 
+
+4. Funniest thing that happened to you in high school.
+
+- During our volleyball match against another highschool, when I jumped to block the ball, I ended up blocking the ball with my face but we got the point.
+
+5. What is a python script? (Keep it simple)
+
+- A Python script is a file that generally contains a short self-contained set of instructions, i.e., lines of code, that perform a specific task
